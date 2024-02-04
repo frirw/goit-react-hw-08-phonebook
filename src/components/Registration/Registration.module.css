@@ -1,0 +1,63 @@
+.div {
+  background-image: url('https://images.pexels.com/photos/1831234/pexels-photo-1831234.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: 500;
+  display: flex;
+  justify-content: center;
+  color: white;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 300px;
+  padding: 20px;
+  margin: 0 auto;
+  border-radius: 25px;
+  margin-top: 20px;
+}
+
+.link {
+  color: fuchsia;
+  font-size: 15px;
+  margin-left: 10px;
+  text-decoration: none;
+}
+
+.input {
+  background-color: white;
+  width: 100%;
+  margin: 0 auto;
+  border-radius: 50px;
+  height: 40px;
+}
+
+.btn {
+  border: none;
+  padding: 15px;
+  margin-top: 10px;
+  border-radius: 20px;
+  color: white;
+  font-size: 18px;
+  background-color: pink;
+}
+
+.btn:hover {
+  background-color: lightpink;
+}
+
+.text {
+  font-size: 16px;
+  padding-left: 10px;
+}

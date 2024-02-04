@@ -1,0 +1,13 @@
+.link {
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 20px;
+  color: pink;
+  padding: 10px;
+  display: inline-block;
+  margin-right: 10px;
+  margin-top: 20px;
+  border: 1px solid fuchsia;
+  border-radius: 10px;
+  padding: 5px;
+}
