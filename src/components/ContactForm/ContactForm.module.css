@@ -1,0 +1,40 @@
+.formContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.form {
+  width: 300px;
+}
+
+.inputWrapper {
+  margin-bottom: 15px;
+}
+
+.label {
+  margin-bottom: 5px;
+}
+
+.input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 3px;
+  border: 1px solid #ccc;
+}
+
+.submitButtonWrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.submitButton {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: pink;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+}
